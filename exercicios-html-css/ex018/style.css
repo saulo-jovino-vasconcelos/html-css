@@ -1,0 +1,35 @@
+@charset "UTF-8";
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-image: linear-gradient(to bottom, rgb(192, 139, 89), hsl(32, 63%, 29%));
+}
+main{
+    background-color: #ffdead;
+    margin: auto;
+    border-radius: 10px;
+    width: 450px;
+    padding: 10px;
+    box-shadow: 5px 4px 8px rgb(87, 64, 45);
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(175, 118, 53);
+    size: 20px;
+    text-shadow: 1px 1px 1px rgb(165, 87, 42);
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(88, 57, 28);
+    size: 20px;
+}
+h3{
+    font-family: 'Courier New', Courier, monospace;
+    size: 20px;
+    color: rgb(88, 57, 28);
+}
+p{
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+}
